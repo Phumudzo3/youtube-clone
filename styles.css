@@ -106,9 +106,7 @@ body {
 .active:hover {
     background: #d0d0d0;
 }
-.active i {
-    color: red;
-}
+
 .category i {
     margin-right: 24px;
 }
